@@ -1,1 +1,1 @@
-this project is all about me
+This project is all about me
